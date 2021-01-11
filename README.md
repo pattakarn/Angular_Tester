@@ -1,5 +1,12 @@
 # Testing
 
+############################################
+วิธีทดสอบ
+1. รัน `ng serve` (ถ้าไม่มีให้ลง `npm install -g @angular/cli` ก่อน)
+2. ใช้ Web Browser เข้า `http://localhost:4200/`
+3. ทดลองใช้งาน
+############################################
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 
 ## Development server
